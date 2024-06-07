@@ -8,9 +8,6 @@ This is a web application built with Node.js and Express that aims to replicate 
 - [Usage](#usage)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
