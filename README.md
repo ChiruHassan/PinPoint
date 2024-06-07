@@ -15,11 +15,11 @@ This is a web application built with Node.js and Express that aims to replicate 
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-repo/pinpoint.git
+git clone https://github.com/ChiruHassan/PinPoint.git
 2. Navigate to the project directory
 3. Install the dependencies: npm install
-4. Set up the MongoDB database connection by modifying the `mongoose.connect` URL in the `schema.js` file.
-5. Start the development server: npm start
+4. Set up the MongoDB database connection by modifying the `mongoose.connect` URL in the `user.js` file.
+5. Start the development server: npm start || npx nodemon (if you have nodemon installed globally)
 
 The application should now be running at `http://localhost:3000`.
 
